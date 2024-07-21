@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hatcronsa.github.io/sitemap
+Sitemap: https://hatcronsa.github.io/app/sitemap
+Sitemap: https://hatcronsa.github.io/assets/sitemap
+Sitemap: https://hatcronsa.github.io/css/sitemap
+Sitemap: https://hatcronsa.github.io/includes/sitemap
+Sitemap: https://hatcronsa.github.io/item/sitemap
+Sitemap: https://hatcronsa.github.io/src/sitemap
